@@ -29,6 +29,10 @@ namespace HelloWorld2015
 
             // Dummy update 5.
 
+            // Dummy update for merge squash 1
+
+            // Dummy update for merge squash 2
+
             Console.ReadLine();
         }
     }
