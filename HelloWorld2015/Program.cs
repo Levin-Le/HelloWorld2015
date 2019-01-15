@@ -11,6 +11,14 @@ namespace HelloWorld2015
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World");
+            
+
+            string strTest = "";
+            if (string.Empty == strTest)
+            {
+                Console.WriteLine("Reach.");
+            }
+
             Console.ReadLine();
         }
     }
